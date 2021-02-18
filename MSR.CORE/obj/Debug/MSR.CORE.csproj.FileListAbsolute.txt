@@ -1,0 +1,55 @@
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MSRAPI\MSR.CORE\bin\Debug\MSR.CORE.dll.config
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MSRAPI\MSR.CORE\bin\Debug\MSR.CORE.dll
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MSRAPI\MSR.CORE\bin\Debug\MSR.CORE.pdb
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MSRAPI\MSR.CORE\bin\Debug\MSR.MODELS.dll
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MSRAPI\MSR.CORE\bin\Debug\Newtonsoft.Json.dll
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MSRAPI\MSR.CORE\bin\Debug\NLog.dll
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MSRAPI\MSR.CORE\bin\Debug\RazorEngine.dll
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MSRAPI\MSR.CORE\bin\Debug\SendGrid.dll
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MSRAPI\MSR.CORE\bin\Debug\StarkbankEcdsa.dll
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MSRAPI\MSR.CORE\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MSRAPI\MSR.CORE\bin\Debug\System.Web.Razor.dll
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MSRAPI\MSR.CORE\bin\Debug\AutoMapper.dll
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MSRAPI\MSR.CORE\bin\Debug\MSRDAL.dll
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MSRAPI\MSR.CORE\bin\Debug\EntityFramework.dll
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MSRAPI\MSR.CORE\bin\Debug\MSR.MODELS.pdb
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MSRAPI\MSR.CORE\bin\Debug\Newtonsoft.Json.xml
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MSRAPI\MSR.CORE\bin\Debug\NLog.xml
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MSRAPI\MSR.CORE\bin\Debug\RazorEngine.xml
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MSRAPI\MSR.CORE\bin\Debug\SendGrid.pdb
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MSRAPI\MSR.CORE\bin\Debug\SendGrid.xml
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MSRAPI\MSR.CORE\bin\Debug\System.Web.Razor.xml
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MSRAPI\MSR.CORE\bin\Debug\AutoMapper.xml
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MSRAPI\MSR.CORE\bin\Debug\MSRDAL.pdb
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MSRAPI\MSR.CORE\bin\Debug\MSRDAL.dll.config
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MSRAPI\MSR.CORE\bin\Debug\EntityFramework.xml
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MSRAPI\MSR.CORE\obj\Debug\MSR.CORE.csprojAssemblyReference.cache
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MSRAPI\MSR.CORE\obj\Debug\MSR.CORE.Resources.Resource.resources
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MSRAPI\MSR.CORE\obj\Debug\MSR.CORE.csproj.GenerateResource.cache
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MSRAPI\MSR.CORE\obj\Debug\MSR.CORE.csproj.CoreCompileInputs.cache
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MSRAPI\MSR.CORE\obj\Debug\MSR.CORE.csproj.CopyComplete
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MSRAPI\MSR.CORE\obj\Debug\MSR.CORE.dll
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MSRAPI\MSR.CORE\obj\Debug\MSR.CORE.pdb
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSR.CORE\bin\Debug\MSR.CORE.dll.config
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSR.CORE\bin\Debug\MSR.CORE.dll
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSR.CORE\bin\Debug\MSR.CORE.pdb
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSR.CORE\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSR.CORE\bin\Debug\NLog.dll
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSR.CORE\bin\Debug\RazorEngine.dll
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSR.CORE\bin\Debug\SendGrid.dll
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSR.CORE\bin\Debug\StarkbankEcdsa.dll
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSR.CORE\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSR.CORE\bin\Debug\System.Web.Razor.dll
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSR.CORE\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSR.CORE\bin\Debug\NLog.xml
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSR.CORE\bin\Debug\RazorEngine.xml
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSR.CORE\bin\Debug\SendGrid.pdb
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSR.CORE\bin\Debug\SendGrid.xml
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSR.CORE\bin\Debug\System.Web.Razor.xml
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSR.CORE\obj\Debug\MSR.CORE.csprojAssemblyReference.cache
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSR.CORE\obj\Debug\MSR.CORE.Resources.Resource.resources
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSR.CORE\obj\Debug\MSR.CORE.csproj.GenerateResource.cache
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSR.CORE\obj\Debug\MSR.CORE.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSR.CORE\obj\Debug\MSR.CORE.csproj.CopyComplete
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSR.CORE\obj\Debug\MSR.CORE.dll
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSR.CORE\obj\Debug\MSR.CORE.pdb

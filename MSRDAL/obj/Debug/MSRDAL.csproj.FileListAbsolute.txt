@@ -1,0 +1,12 @@
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MSRAPI\MSRDAL\bin\Debug\MSRDAL.dll
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MSRAPI\MSRDAL\bin\Debug\MSRDAL.pdb
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MSRAPI\MSRDAL\obj\Debug\MSRDAL.csproj.CoreCompileInputs.cache
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MSRAPI\MSRDAL\obj\Debug\MSRDAL.dll
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MSRAPI\MSRDAL\obj\Debug\MSRDAL.pdb
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MSRAPI\MSRDAL\bin\Debug\MSRDAL.dll.config
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MSRAPI\MSRDAL\bin\Debug\EntityFramework.dll
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MSRAPI\MSRDAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MSRAPI\MSRDAL\bin\Debug\EntityFramework.xml
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MSRAPI\MSRDAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MSRAPI\MSRDAL\obj\Debug\MSRDAL.csprojAssemblyReference.cache
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MSRAPI\MSRDAL\obj\Debug\MSRDAL.csproj.CopyComplete

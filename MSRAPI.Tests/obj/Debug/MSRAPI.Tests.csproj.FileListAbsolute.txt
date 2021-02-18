@@ -1,0 +1,144 @@
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\MSRAPI.Tests.dll.config
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\MSRAPI.Tests.dll
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\MSRAPI.Tests.pdb
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\MSRAPI.dll
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\Owin.dll
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\MSR.MODELS.dll
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\MSRBAL.dll
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\WebGrease.dll
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\AutoMapper.dll
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\MSRDAL.dll
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\System.Web.Cors.dll
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\EntityFramework.dll
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\MSRAPI.pdb
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\MSRAPI.dll.config
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\MSR.MODELS.pdb
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\MSRBAL.pdb
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\MSRBAL.dll.config
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\AutoMapper.xml
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\MSRDAL.pdb
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\MSRDAL.dll.config
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\EntityFramework.xml
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\obj\Debug\MSRAPI.Tests.csprojAssemblyReference.cache
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\obj\Debug\MSRAPI.Tests.csproj.CoreCompileInputs.cache
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\obj\Debug\MSRAPI.Tests.csproj.CopyComplete
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\obj\Debug\MSRAPI.Tests.dll
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRAPI.Tests\obj\Debug\MSRAPI.Tests.pdb
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\MSRAPI.Tests.dll.config
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\MSRAPI.Tests.dll
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\MSRAPI.Tests.pdb
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\MSRAPI.dll
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\Owin.dll
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\MSR.CORE.dll
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\WebGrease.dll
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\AutoMapper.dll
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\MSRDAL.dll
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\System.Web.Cors.dll
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\EntityFramework.dll
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\NLog.dll
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\MSRAPI.pdb
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\MSRAPI.dll.config
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\MSR.CORE.pdb
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\MSR.CORE.dll.config
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\AutoMapper.xml
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\MSRDAL.pdb
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\MSRDAL.dll.config
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\EntityFramework.xml
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\NLog.xml
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\obj\Debug\MSRAPI.Tests.csprojAssemblyReference.cache
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\obj\Debug\MSRAPI.Tests.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\obj\Debug\MSRAPI.Tests.csproj.CopyComplete
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\obj\Debug\MSRAPI.Tests.dll
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRAPI.Tests\obj\Debug\MSRAPI.Tests.pdb

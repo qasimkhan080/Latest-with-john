@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="DbEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="JiraTickets1" EntityType="Model.JiraTickets" />
+    <EntitySet Name="MstMonths1" EntityType="Model.MstMonths" />
+    <EntitySet Name="MstTaskStatus1" EntityType="Model.MstTaskStatus" />
+    <EntitySet Name="MstUserRoles1" EntityType="Model.MstUserRoles" />
+    <EntitySet Name="MstYears1" EntityType="Model.MstYears" />
+    <EntitySet Name="SubTasks1" EntityType="Model.SubTasks" />
+    <EntitySet Name="Tasks1" EntityType="Model.Tasks" />
+    <EntitySet Name="Users1" EntityType="Model.Users" />
+    <AssociationSet Name="FK_JiraTickets_SubTasks" Association="Model.FK_JiraTickets_SubTasks">
+      <End Role="SubTask" EntitySet="SubTasks1" />
+      <End Role="JiraTicket" EntitySet="JiraTickets1" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TestedTask_Status_StatusId" Association="Model.FK_TestedTask_Status_StatusId">
+      <End Role="MstTaskStatu" EntitySet="MstTaskStatus1" />
+      <End Role="Task" EntitySet="Tasks1" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Users_MstUserRoles" Association="Model.FK_Users_MstUserRoles">
+      <End Role="MstUserRole" EntitySet="MstUserRoles1" />
+      <End Role="User" EntitySet="Users1" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SubTasks_Tasks" Association="Model.FK_SubTasks_Tasks">
+      <End Role="Task" EntitySet="Tasks1" />
+      <End Role="SubTask" EntitySet="SubTasks1" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TestedTasks_UserCreatedBy" Association="Model.FK_TestedTasks_UserCreatedBy">
+      <End Role="User" EntitySet="Users1" />
+      <End Role="Task" EntitySet="Tasks1" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TestedTasks_UserModifiedBy" Association="Model.FK_TestedTasks_UserModifiedBy">
+      <End Role="User" EntitySet="Users1" />
+      <End Role="Task" EntitySet="Tasks1" />
+    </AssociationSet>
+    <EntitySet Name="HelpDeskTickets" EntityType="Model.HelpDeskTicket" />
+  </EntityContainer>
+  <EntityType Name="JiraTickets">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="SubTaskId" Type="Int32" Nullable="false" />
+    <Property Name="JiraticketId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="SubTask" Relationship="Model.FK_JiraTickets_SubTasks" FromRole="JiraTicket" ToRole="SubTask" />
+  </EntityType>
+  <EntityType Name="MstMonths">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="MonthName" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="MstTaskStatus">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Description" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="IsActive" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="Tasks" Relationship="Model.FK_TestedTask_Status_StatusId" FromRole="MstTaskStatu" ToRole="Task" />
+  </EntityType>
+  <EntityType Name="MstUserRoles">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="RoleName" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Users" Relationship="Model.FK_Users_MstUserRoles" FromRole="MstUserRole" ToRole="User" />
+  </EntityType>
+  <EntityType Name="MstYears">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Year" Type="Int16" Nullable="false" />
+  </EntityType>
+  <EntityType Name="SubTasks">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Description" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="TaskId" Type="Int32" Nullable="false" />
+    <Property Name="IsActive" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="JiraTickets" Relationship="Model.FK_JiraTickets_SubTasks" FromRole="SubTask" ToRole="JiraTicket" />
+    <NavigationProperty Name="Task" Relationship="Model.FK_SubTasks_Tasks" FromRole="SubTask" ToRole="Task" />
+  </EntityType>
+  <EntityType Name="Tasks">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Description" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="MonthId" Type="Int32" Nullable="false" />
+    <Property Name="Year" Type="Int32" Nullable="false" />
+    <Property Name="StatusId" Type="Int32" Nullable="false" />
+    <Property Name="IsActive" Type="Boolean" Nullable="false" />
+    <Property Name="CreatedBy" Type="Int32" Nullable="false" />
+    <Property Name="CreatedDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="ModifiedBy" Type="Int32" />
+    <Property Name="ModifiedDate" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="MstTaskStatu" Relationship="Model.FK_TestedTask_Status_StatusId" FromRole="Task" ToRole="MstTaskStatu" />
+    <NavigationProperty Name="SubTasks" Relationship="Model.FK_SubTasks_Tasks" FromRole="Task" ToRole="SubTask" />
+    <NavigationProperty Name="CreatedByUser" Relationship="Model.FK_TestedTasks_UserCreatedBy" FromRole="Task" ToRole="User" />
+    <NavigationProperty Name="ModifiedByUser" Relationship="Model.FK_TestedTasks_UserModifiedBy" FromRole="Task" ToRole="User" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserName" Type="String" Nullable="false" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="FirstName" Type="String" Nullable="false" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="MiddleName" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="LastName" Type="String" Nullable="false" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="Email" Type="String" Nullable="false" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="Password" Type="String" Nullable="false" MaxLength="1000" FixedLength="false" Unicode="true" />
+    <Property Name="IsDeleted" Type="Boolean" Nullable="false" />
+    <Property Name="RoleId" Type="Int32" Nullable="false" />
+    <Property Name="IsActive" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="MstUserRole" Relationship="Model.FK_Users_MstUserRoles" FromRole="User" ToRole="MstUserRole" />
+    <NavigationProperty Name="TasksCreatedByUser" Relationship="Model.FK_TestedTasks_UserCreatedBy" FromRole="User" ToRole="Task" />
+    <NavigationProperty Name="TasksModifiedByUser" Relationship="Model.FK_TestedTasks_UserModifiedBy" FromRole="User" ToRole="Task" />
+  </EntityType>
+  <Association Name="FK_JiraTickets_SubTasks">
+    <End Type="Model.SubTasks" Role="SubTask" Multiplicity="1" />
+    <End Type="Model.JiraTickets" Role="JiraTicket" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SubTask">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="JiraTicket">
+        <PropertyRef Name="SubTaskId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TestedTask_Status_StatusId">
+    <End Type="Model.MstTaskStatus" Role="MstTaskStatu" Multiplicity="1" />
+    <End Type="Model.Tasks" Role="Task" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="MstTaskStatu">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Task">
+        <PropertyRef Name="StatusId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Users_MstUserRoles">
+    <End Type="Model.MstUserRoles" Role="MstUserRole" Multiplicity="1" />
+    <End Type="Model.Users" Role="User" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="MstUserRole">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="User">
+        <PropertyRef Name="RoleId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SubTasks_Tasks">
+    <End Type="Model.Tasks" Role="Task" Multiplicity="1" />
+    <End Type="Model.SubTasks" Role="SubTask" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Task">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="SubTask">
+        <PropertyRef Name="TaskId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TestedTasks_UserCreatedBy">
+    <End Type="Model.Users" Role="User" Multiplicity="1" />
+    <End Type="Model.Tasks" Role="Task" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Task">
+        <PropertyRef Name="CreatedBy" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TestedTasks_UserModifiedBy">
+    <End Type="Model.Users" Role="User" Multiplicity="0..1" />
+    <End Type="Model.Tasks" Role="Task" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Task">
+        <PropertyRef Name="ModifiedBy" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="HelpDeskTicket">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Category" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Value" Type="Int32" />
+  </EntityType>
+</Schema>

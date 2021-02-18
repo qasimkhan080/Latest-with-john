@@ -1,0 +1,12 @@
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRDAL\bin\Release\MSRDAL.dll.config
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRDAL\bin\Release\MSRDAL.dll
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRDAL\bin\Release\MSRDAL.pdb
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRDAL\bin\Release\EntityFramework.dll
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRDAL\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRDAL\bin\Release\EntityFramework.xml
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRDAL\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRDAL\obj\Release\MSR.DAL.csprojAssemblyReference.cache
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRDAL\obj\Release\MSR.DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRDAL\obj\Release\MSR.DAL.csproj.CopyComplete
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRDAL\obj\Release\MSRDAL.dll
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRDAL\obj\Release\MSRDAL.pdb

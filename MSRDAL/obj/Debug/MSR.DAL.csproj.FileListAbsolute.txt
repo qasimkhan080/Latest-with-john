@@ -1,0 +1,26 @@
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRDAL\bin\Debug\MSRDAL.dll.config
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRDAL\bin\Debug\MSRDAL.dll
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRDAL\bin\Debug\MSRDAL.pdb
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRDAL\bin\Debug\EntityFramework.dll
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRDAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRDAL\bin\Debug\EntityFramework.xml
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRDAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRDAL\obj\Debug\MSR.DAL.csproj.CoreCompileInputs.cache
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRDAL\obj\Debug\MSR.DAL.csproj.CopyComplete
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRDAL\obj\Debug\MSRDAL.dll
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRDAL\obj\Debug\MSRDAL.pdb
+C:\Users\anant\OneDrive\Desktop\BK\FreeLancing\Ashish\MsrAPI\MSRDAL\obj\Debug\MSR.DAL.csprojAssemblyReference.cache
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRDAL\bin\Debug\MSRDAL.dll.config
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRDAL\bin\Debug\MSRDAL.dll
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRDAL\bin\Debug\MSRDAL.pdb
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRDAL\bin\Debug\EntityFramework.dll
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRDAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRDAL\bin\Debug\EntityFramework.xml
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRDAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRDAL\obj\Debug\MSR.DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRDAL\obj\Debug\MSR.DAL.csproj.CopyComplete
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRDAL\obj\Debug\MSRDAL.dll
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRDAL\obj\Debug\MSRDAL.pdb
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRDAL\obj\Debug\MSR.DAL.csprojAssemblyReference.cache
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRDAL\bin\Debug\AutoMapper.dll
+C:\Users\User\Downloads\1.4 - DB changes, Exception tracing added\MSRAPI\MSRDAL\bin\Debug\AutoMapper.xml
